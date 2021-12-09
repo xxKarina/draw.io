@@ -1,4 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T08:59:15.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="5JAi5GyNpwQ0rNKC_-bJ" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T01:01:15.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="uXMVg2BZxvM2NhuizLRT" version="15.9.1" type="github" pages="3">
+  <diagram id="N24bkrtCGfzIKSDer7ot" name="Page-3">
+    <mxGraphModel dx="767" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="3rBj7CY8YbTtjys4pDBM-0" />
+        <mxCell id="3rBj7CY8YbTtjys4pDBM-1" parent="3rBj7CY8YbTtjys4pDBM-0" />
+        <mxCell id="1O1xJCZ0dDoLLBFzADXP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="3rBj7CY8YbTtjys4pDBM-1" source="1O1xJCZ0dDoLLBFzADXP-0" target="1O1xJCZ0dDoLLBFzADXP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O1xJCZ0dDoLLBFzADXP-0" value="event" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="3rBj7CY8YbTtjys4pDBM-1">
+          <mxGeometry x="30" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O1xJCZ0dDoLLBFzADXP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="3rBj7CY8YbTtjys4pDBM-1" source="1O1xJCZ0dDoLLBFzADXP-1" target="1O1xJCZ0dDoLLBFzADXP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O1xJCZ0dDoLLBFzADXP-1" value="&lt;div&gt;&lt;span&gt;&amp;nbsp;keycode&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; key: &#39;.&#39;,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; meta: true,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; ctrl: false,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; alt: true,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;}&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="3rBj7CY8YbTtjys4pDBM-1">
+          <mxGeometry x="200" y="220" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1O1xJCZ0dDoLLBFzADXP-2" value="key 表达式&lt;br&gt;cmd+alt+." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="3rBj7CY8YbTtjys4pDBM-1">
+          <mxGeometry x="370" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mBM8cPBjPVUJfTwSo4XI" name="Page-2">
+    <mxGraphModel dx="1594" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-0" />
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-1" parent="q3NdMx_kRWt8FeBTtmlY-0" />
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="q3NdMx_kRWt8FeBTtmlY-1" source="q3NdMx_kRWt8FeBTtmlY-4" target="q3NdMx_kRWt8FeBTtmlY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-4" value="&lt;span&gt;收集所有keybinding&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="q3NdMx_kRWt8FeBTtmlY-1">
+          <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-5" value="&amp;nbsp;[{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;key&quot;: &quot;cmd+alt+.&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;command&quot;: &quot;painter.toggle&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;when&quot;: &quot;PainterFocus&quot;,&lt;br&gt;&amp;nbsp; }, {&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;key&quot;: &quot;cmd+alt+.&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;command&quot;: &quot;zenmode&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;when&quot;: &quot;OutlineFocus&quot;,&lt;br&gt;&amp;nbsp; }, {&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;key&quot;: &quot;cmd+alt+,&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;command&quot;: &quot;zenmode&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;when&quot;: &quot;OutlineFocus&quot;,&lt;br&gt;&amp;nbsp; }]" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;align=left;" vertex="1" parent="q3NdMx_kRWt8FeBTtmlY-1">
+          <mxGeometry x="-40" y="40" width="230" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="q3NdMx_kRWt8FeBTtmlY-1" source="q3NdMx_kRWt8FeBTtmlY-6" target="q3NdMx_kRWt8FeBTtmlY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-6" value="根据 keyboard 事件匹配快捷键的 key" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="q3NdMx_kRWt8FeBTtmlY-1">
+          <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="q3NdMx_kRWt8FeBTtmlY-1" source="q3NdMx_kRWt8FeBTtmlY-7" target="q3NdMx_kRWt8FeBTtmlY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-7" value="判断 when 结果是否为 true" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="q3NdMx_kRWt8FeBTtmlY-1">
+          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-8" value="尝试执行 keybinding" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="q3NdMx_kRWt8FeBTtmlY-1">
+          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="q3NdMx_kRWt8FeBTtmlY-1" source="q3NdMx_kRWt8FeBTtmlY-5" target="q3NdMx_kRWt8FeBTtmlY-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="110" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-14" value="&amp;nbsp;[{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;key&quot;: &quot;cmd+alt+.&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;command&quot;: &quot;painter.toggle&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;when&quot;: &quot;PainterFocus&quot;,&lt;br&gt;&amp;nbsp; }, {&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;key&quot;: &quot;cmd+alt+.&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;command&quot;: &quot;zenmode&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;when&quot;: &quot;OutlineFocus&quot;,&lt;br&gt;&amp;nbsp; }]" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;align=left;" vertex="1" parent="q3NdMx_kRWt8FeBTtmlY-1">
+          <mxGeometry x="400" y="187.75" width="230" height="184.5" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NdMx_kRWt8FeBTtmlY-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="q3NdMx_kRWt8FeBTtmlY-1" source="q3NdMx_kRWt8FeBTtmlY-6" target="q3NdMx_kRWt8FeBTtmlY-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="460" as="sourcePoint" />
+            <mxPoint x="100" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="767" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
