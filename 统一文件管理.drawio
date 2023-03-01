@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T07:33:52.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="02e1husJYuMfJqMS9JtQ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T07:37:24.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7n4pml6tYgppv4xyvMrL" version="20.8.23" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2548" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -180,6 +180,40 @@
             <mxPoint x="-620" y="550" as="sourcePoint" />
             <mxPoint x="-800" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="601" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1026" y="600" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-62" value="预览action" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1000" y="606.17" as="sourcePoint" />
+            <mxPoint x="-830" y="606.17" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="610" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-64" value="（纯业务信息，不含附件返回后）&lt;br&gt;通过业务id获取附件信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-790" y="618.17" as="sourcePoint" />
+            <mxPoint x="-620" y="618.17" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-65" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-620" y="642" as="sourcePoint" />
+            <mxPoint x="-800" y="642" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-66" value="" style="line;strokeWidth=1;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="570" width="1300" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
