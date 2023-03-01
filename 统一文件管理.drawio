@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T07:27:38.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="XjZY2xKNB7sRQ_4CUfjF" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T07:33:52.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="02e1husJYuMfJqMS9JtQ" version="20.8.23" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2548" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="-RjXNWNZFDge65mw0WvV-49" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="-RjXNWNZFDge65mw0WvV-12">
           <mxGeometry x="45" y="272.5" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-55" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="-RjXNWNZFDge65mw0WvV-12">
+          <mxGeometry x="45" y="348" width="10" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-RjXNWNZFDge65mw0WvV-16" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="-1031" y="160" width="20" height="570" as="geometry" />
@@ -39,6 +42,9 @@
         </mxCell>
         <mxCell id="-RjXNWNZFDge65mw0WvV-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="-RjXNWNZFDge65mw0WvV-21">
           <mxGeometry x="45" y="104" width="10" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="-RjXNWNZFDge65mw0WvV-21">
+          <mxGeometry x="45" y="358" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-RjXNWNZFDge65mw0WvV-23" value="统一&lt;br&gt;附件管理" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=center;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-650" y="100" width="100" height="35" as="geometry" />
@@ -142,12 +148,37 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-RjXNWNZFDge65mw0WvV-50" value="发起直传&lt;br&gt;（预签名链接、file）" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=-0.8;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-RjXNWNZFDge65mw0WvV-51">
+        <mxCell id="-RjXNWNZFDge65mw0WvV-50" value="发起直传&lt;br&gt;（预签名链接、file）" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=-0.8;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.0005" width="80" relative="1" as="geometry">
-            <mxPoint x="-790" y="440" as="sourcePoint" />
-            <mxPoint x="-620" y="440" as="targetPoint" />
+            <mxPoint x="-790" y="451" as="sourcePoint" />
+            <mxPoint x="-143" y="451" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1026" y="507" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-54" value="保存action" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1000" y="513.17" as="sourcePoint" />
+            <mxPoint x="-830" y="513.17" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-56" value="（纯业务信息，不含附件保存后）&lt;br&gt;执行附件关系保存" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-790" y="526.17" as="sourcePoint" />
+            <mxPoint x="-620" y="526.17" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RjXNWNZFDge65mw0WvV-58" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-620" y="550" as="sourcePoint" />
+            <mxPoint x="-800" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
